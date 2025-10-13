@@ -3,8 +3,8 @@ name = "Fleury"
 description = "A warm, rusty theme with bronze and copper tones inspired by weathered metal"
 version = "1.0.0"
 schema_version = 1
-authors = ["Ayush Bhat"]
+authors = ["Ayush Bhat <tfeayush@gmail.com>"]
 repository = "https://github.com/1ay1/fleury-zed-theme"
 
 [theme]
-path = "fleury.json"
+path = "themes/fleury.json"

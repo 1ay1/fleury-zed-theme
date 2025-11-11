@@ -2263,47 +2263,47 @@
       "name": "Fleury Copper",
       "appearance": "dark",
       "accents": [
-        "#b89868",
-        "#a86858",
-        "#90886a",
-        "#a88878",
-        "#b8985a",
-        "#789870",
-        "#608898"
+        "#c8a878",
+        "#c87868",
+        "#a09878",
+        "#b89888",
+        "#d0a868",
+        "#88a880",
+        "#7098a8"
       ],
       "style": {
-        "border": "#4a4840",
-        "border.variant": "#242824",
-        "border.focused": "#a86858",
-        "border.selected": "#a86858",
+        "border": "#5a5848",
+        "border.variant": "#2a2c28",
+        "border.focused": "#c87868",
+        "border.selected": "#c87868",
         "border.transparent": "#00000000",
-        "border.disabled": "#3a3c38",
-        "elevated_surface.background": "#141614",
-        "surface.background": "#0a0c0a",
-        "background": "#0a0c0a",
-        "element.background": "#1a1c18",
-        "element.hover": "#222420",
-        "element.active": "#a86858",
-        "element.selected": "#4a4840",
-        "element.selected_foreground": "#b89868",
-        "element.disabled": "#343630",
-        "drop_target.background": "#a8685850",
+        "border.disabled": "#484840",
+        "elevated_surface.background": "#181a18",
+        "surface.background": "#0e100e",
+        "background": "#0e100e",
+        "element.background": "#1e201c",
+        "element.hover": "#262824",
+        "element.active": "#c87868",
+        "element.selected": "#5a5848",
+        "element.selected_foreground": "#c8a878",
+        "element.disabled": "#3e3e38",
+        "drop_target.background": "#c8786860",
         "ghost_element.background": "#00000000",
-        "ghost_element.hover": "#222420",
-        "ghost_element.active": "#a86858",
-        "ghost_element.selected": "#4a4840",
-        "ghost_element.selected_foreground": "#b89868",
-        "ghost_element.disabled": "#343630",
-        "text": "#90886a",
-        "text.muted": "#7a8478",
-        "text.placeholder": "#70705a",
-        "text.disabled": "#525452",
-        "text.accent": "#a86858",
-        "icon": "#90886a",
-        "icon.muted": "#7a8478",
-        "icon.disabled": "#525452",
-        "icon.placeholder": "#70705a",
-        "icon.accent": "#a86858",
+        "ghost_element.hover": "#262824",
+        "ghost_element.active": "#c87868",
+        "ghost_element.selected": "#5a5848",
+        "ghost_element.selected_foreground": "#c8a878",
+        "ghost_element.disabled": "#3e3e38",
+        "text": "#b0a888",
+        "text.muted": "#9aa49a",
+        "text.placeholder": "#8c8c74",
+        "text.disabled": "#666660",
+        "text.accent": "#c87868",
+        "icon": "#b0a888",
+        "icon.muted": "#9aa49a",
+        "icon.disabled": "#666660",
+        "icon.placeholder": "#8c8c74",
+        "icon.accent": "#c87868",
         "status_bar.background": "#141614",
         "title_bar.background": "#141614",
         "title_bar.inactive_background": "#0a0c0a",
@@ -2464,7 +2464,7 @@
             "color": "#90886a"
           },
           "comment": {
-            "color": "#484c44",
+            "color": "#5a6058",
             "font_style": "italic"
           },
           "comment.doc": {
@@ -2527,7 +2527,7 @@
             "color": "#90886a"
           },
           "operator": {
-            "color": "#606860"
+            "color": "#707870"
           },
           "predictive": {
             "color": "#7a8478",
@@ -2543,13 +2543,13 @@
             "color": "#a88878"
           },
           "punctuation": {
-            "color": "#606860"
+            "color": "#707870"
           },
           "punctuation.bracket": {
             "color": "#90886a"
           },
           "punctuation.delimiter": {
-            "color": "#606860"
+            "color": "#707870"
           },
           "punctuation.list_marker": {
             "color": "#a86858"
